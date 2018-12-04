@@ -2,7 +2,6 @@ This
 is
 my
 first
-fucking
 file
 using
 github
